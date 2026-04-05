@@ -2115,3 +2115,4 @@ nftset=/xpo.telegram.com/4#inet#fw4#vpn_domains
 nftset=/yaml.telegram.com/4#inet#fw4#vpn_domains
 nftset=/yourmail.telegram.com/4#inet#fw4#vpn_domains
 nftset=/zabbix.telegram.com/4#inet#fw4#vpn_domains
+nftset=/dialux.com/4#inet#fw4#vpn_domains
