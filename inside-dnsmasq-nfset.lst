@@ -2125,3 +2125,4 @@ nftset=/whatsapp.org/4#inet#fw4#vpn_domains
 nftset=/whatsapp.tv/4#inet#fw4#vpn_domains
 nftset=/whatsappbrand.com/4#inet#fw4#vpn_domains
 nftset=/wl.co/4#inet#fw4#vpn_domains
+nftset=/focal.com/4#inet#fw4#vpn_domains
